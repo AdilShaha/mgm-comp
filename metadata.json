@@ -1,0 +1,8 @@
+{
+  "name": "DPDP Form Auditor",
+  "description": "Browser-based Digital Personal Data Protection Act compliance auditor, personal data classifier, excess collection detector, and multilingual consent notice generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
